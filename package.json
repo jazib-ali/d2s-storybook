@@ -1,7 +1,8 @@
 {
-  "name": "vuetify-app",
+  "name": "d2sStorybook",
   "version": "0.1.0",
   "private": true,
+  "author": "kamil",
   "scripts": {
     "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
